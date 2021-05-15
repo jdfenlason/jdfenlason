@@ -7,6 +7,6 @@ I am an avid homebrewer and beer affocianado.  I am a certified Cicerone and lov
 Feel free to reach out!
 
 - 🔭 I’m currently working on a soccer betting app using react.js
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me: Jdfenlason@gmail.com or https://www.linkedin.com/in/jake-fenlason/
 - ⚡ Fun fact: I love to read.  Drop a suggestion to my email or linkedin
