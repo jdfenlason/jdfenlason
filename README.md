@@ -39,6 +39,7 @@ Don't hesitate to reach out! My contact information is below in the contact me s
 ![ajax3](https://user-images.githubusercontent.com/78828085/121418716-3b4aaa80-c939-11eb-9c96-d14a947837a1.gif)
 <br>
 StarGazer is a a web app to assist novice astronomers in streamlining their observations and keeping observations maintained and organized in one place.
+<br>
 [Live](https://jdfenlason.github.io/star-gazer/.)
 
 ## Contact Me 📫
