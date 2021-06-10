@@ -29,17 +29,18 @@ Don't hesitate to reach out! My contact information is below in the contact me s
 
 ### StarGazer 
 #### My first solo front-end application 
-
-<br>
+StarGazer is a a web app to assist novice astronomers in streamlining their observations and keeping observations maintained and organized in one place.<br>
 
 ![ajax](https://user-images.githubusercontent.com/78828085/121415709-0e48c880-c936-11eb-8df6-cc0d3b288e03.gif)
 
   <br>
 
-![ajax3](https://user-images.githubusercontent.com/78828085/121418716-3b4aaa80-c939-11eb-9c96-d14a947837a1.gif)
+![ajax3](https://user-images.githubusercontent.com/78828085/121556609-07778f80-c9e2-11eb-8164-3029ee4b0288.gif)
+
 <br>
 StarGazer is a a web app to assist novice astronomers in streamlining their observations and keeping observations maintained and organized in one place.
 <br>
+
 [Live](https://jdfenlason.github.io/star-gazer/.)
 
 ## Contact Me 📫
