@@ -24,15 +24,18 @@ Don't hesitate to reach out! My contact information is below in the contact me s
 </span>
 
 ## Applications 📱
+### FotBets 
+####First full-stack application 
+FotBets is a mobile app for fans of football or soccer who want to play in an interactive competition against their friends.   Users are only a touch away from viewing upcoming fixtures, and making a bet/wager on them.  Users compete against each other throughout the season to rack up the most tokens.
+
+![feat41](https://user-images.githubusercontent.com/78828085/121604819-3c530900-ca19-11eb-9537-1eac6a4c5cf9.gif)
+![feat42](https://user-images.githubusercontent.com/78828085/121604837-4543da80-ca19-11eb-935e-96976b975a91.gif)
 
 ### StarGazer 
 #### My first solo front-end application 
 StarGazer is a a web app to assist novice astronomers in streamlining their observations and keeping observations maintained and organized in one place.<br>
 
 ![ajax](https://user-images.githubusercontent.com/78828085/121415709-0e48c880-c936-11eb-8df6-cc0d3b288e03.gif)
-
-  <br>
-
 ![ajax3](https://user-images.githubusercontent.com/78828085/121556609-07778f80-c9e2-11eb-8164-3029ee4b0288.gif)
 
 <br>
