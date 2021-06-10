@@ -10,9 +10,7 @@ Now that I have completed the Full-Immersion program I can proudly call myself a
 Don't hesitate to reach out! My contact information is below in the contact me section! 
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdfenlason&theme=dark&show_icons=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdfenlason&hide=contribs,prs&theme=dark&show_icons=true)
 
 ## Skills 🛠
 <span>
