@@ -24,8 +24,7 @@ Don't hesitate to reach out! My contact information is below in the contact me s
 </span>
 
 ## Applications 📱
-### FotBets 
-####First full-stack application 
+### FotBets: A full-stack application 
 FotBets is a mobile app for fans of football or soccer who want to play in an interactive competition against their friends.   Users are only a touch away from viewing upcoming fixtures, and making a bet/wager on them.  Users compete against each other throughout the season to rack up the most tokens.
 
 ![feat41](https://user-images.githubusercontent.com/78828085/121604819-3c530900-ca19-11eb-9537-1eac6a4c5cf9.gif)
