@@ -38,8 +38,7 @@ StarGazer is a a web app to assist novice astronomers in streamlining their obse
 ![ajax3](https://user-images.githubusercontent.com/78828085/121556609-07778f80-c9e2-11eb-8164-3029ee4b0288.gif)
 
 <br>
-StarGazer is a a web app to assist novice astronomers in streamlining their observations and keeping observations maintained and organized in one place.
-<br>
+
 
 [Live](https://jdfenlason.github.io/star-gazer/.)
 
