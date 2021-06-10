@@ -46,5 +46,6 @@ StarGazer is a web app to assist novice astronomers in streamlining their observ
 Email: Jdfenlason@gmail.com 
 <br>
 [LinkedIn](https://www.linkedin.com/in/jake-fenlason/)
+<br>
 [Resume](https://github.com/jdfenlason/jdfenlason/files/6634920/Jake_Fenlason_Resume_V.4GIT.pdf)
 
