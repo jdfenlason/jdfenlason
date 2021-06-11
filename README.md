@@ -31,6 +31,7 @@ FotBets is a mobile app for fans of football or soccer who want to play in an in
 ![feat41](https://user-images.githubusercontent.com/78828085/121604819-3c530900-ca19-11eb-9537-1eac6a4c5cf9.gif)
 ![feat42](https://user-images.githubusercontent.com/78828085/121604837-4543da80-ca19-11eb-935e-96976b975a91.gif)
 <br>
+<br>
 [Live](https://fot-bets.herokuapp.com/)
 ### StarGazer 
 #### My first solo front-end application 
