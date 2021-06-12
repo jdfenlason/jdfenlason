@@ -50,6 +50,6 @@ Email: Jdfenlason@gmail.com
 <br>
 [LinkedIn](https://www.linkedin.com/in/jake-fenlason/)
 <br>
-[Resume](https://github.com/jdfenlason/jdfenlason/files/6641360/Jake_Fenlason_ResumeV.5.pdf)
+[Resume](https://github.com/jdfenlason/jdfenlason/files/6641374/Jake_Fenlason_ResumeV.6.pdf)
 
 
