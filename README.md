@@ -27,9 +27,9 @@ Don't hesitate to reach out! My contact information is below in the contact me s
 ### FotBets: A full-stack application 
 FotBets is a mobile app for fans of football or soccer who want to play in an interactive competition against their friends.   Users are only a touch away from viewing upcoming fixtures, and making a bet/wager on them.  Users compete against each other throughout the season to rack up the most tokens.
 
+![liveGIT1](https://user-images.githubusercontent.com/78828085/123709616-5d9a5e80-d83b-11eb-9839-fa0bb6b209c3.gif)
+![liveGIT2](https://user-images.githubusercontent.com/78828085/123709630-5ffcb880-d83b-11eb-8770-9a54d55e2ab4.gif)
 
-![feat41](https://user-images.githubusercontent.com/78828085/121604819-3c530900-ca19-11eb-9537-1eac6a4c5cf9.gif)
-![feat42](https://user-images.githubusercontent.com/78828085/121604837-4543da80-ca19-11eb-935e-96976b975a91.gif)
 <br>
 <br>
 [Live](https://fot-bets.herokuapp.com/)
