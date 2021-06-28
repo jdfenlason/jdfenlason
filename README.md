@@ -39,8 +39,11 @@ FotBets is a mobile app for fans of football or soccer who want to play in an in
 #### My first solo front-end application 
 StarGazer is a web app to assist novice astronomers in streamlining their observations and keeping observations maintained and organized in one place.<br>
 
-![ajax](https://user-images.githubusercontent.com/78828085/121415709-0e48c880-c936-11eb-8df6-cc0d3b288e03.gif)
-![ajax3](https://user-images.githubusercontent.com/78828085/121556609-07778f80-c9e2-11eb-8164-3029ee4b0288.gif)
+
+![ajax1](https://user-images.githubusercontent.com/78828085/123710726-3cd30880-d83d-11eb-928c-0abaed77352f.gif)
+![ajax2](https://user-images.githubusercontent.com/78828085/123710722-3c3a7200-d83d-11eb-882a-5d85c24aecdd.gif)
+![ajax3](https://user-images.githubusercontent.com/78828085/123710723-3cd30880-d83d-11eb-8b51-b66a6627a3e8.gif)
+
 
 <br>
 
