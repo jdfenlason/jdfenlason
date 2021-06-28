@@ -1,3 +1,4 @@
+
 ## About Me ⚽️
 
 Hello! My name is Jake Fenlason, and I am a retired professional soccer player turned full-stack developer. After a five-year professional career, playing against Ballon d'Or winners and World Cup Champions, I felt it was time for a change. In looking for what life would be like after soccer, I wanted something that would be challenging, stimulating, and rewarding.
@@ -32,6 +33,7 @@ FotBets is a mobile app for fans of football or soccer who want to play in an in
 
 <br>
 <br>
+
 [Live](https://fot-bets.herokuapp.com/)
 ### StarGazer 
 #### My first solo front-end application 
@@ -50,6 +52,7 @@ Email: Jdfenlason@gmail.com
 <br>
 [LinkedIn](https://www.linkedin.com/in/jake-fenlason/)
 <br>
-[Resume](https://github.com/jdfenlason/jdfenlason/files/6641374/Jake_Fenlason_ResumeV.6.pdf)
+[Resume](https://github.com/jdfenlason/jdfenlason/files/6729481/Jake_Fenlason_resume_gd.pdf)
+
 
 
