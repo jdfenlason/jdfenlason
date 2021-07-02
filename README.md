@@ -16,7 +16,7 @@ Don't hesitate to reach out! My contact information is below in the contact me s
 ## Skills 🛠
 <span>
 <img src = "https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" height="64px" width="64px">
-<img src = "https://react-metismenu-icons.vermiliontrr8.fun/img/376498.png" height="64px" width="64px">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" height="64px" width="64px">
 <img src ="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" height="64px" width="64px">
 <img src ="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" height="64px" width="64px">
 <img src ="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png"height="64px" width="64px">
